@@ -101,5 +101,5 @@ I’m always excited to connect with engineers, developers, and tech enthusiasts
 > 🔧 Crafted with care by **Don Dew** 
 
 <div align="center">
-  <img src="logo2 New.png" alt="Don Dew Logo">
+  <img src="logo_new.png" alt="Don Dew Logo">
 </div>
