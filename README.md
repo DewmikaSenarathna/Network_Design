@@ -79,9 +79,6 @@ In an era where **digital infrastructure powers education and innovation**, simu
 ## 🔗 **Check Out the Project**
 👉 [Live Repository on GitHub] https://github.com/DewmikaSenarathna/Network_Design.git
 
-📹 **Video Walkthrough**  
-Watch the full demonstration of design logic, implementation, and testing in action.
-
 ---
 
 ## 🤝 **Let’s Connect**
