@@ -2,7 +2,7 @@
 ### 🏢 Multi-Branch Educational Institution | 🧠 Cisco Packet Tracer Simulation
 
 <div align="center">
-  <img src="https://github.com/Don/Simulated_Scalable_Network_Design/blob/main/network_cover_01.png" alt="Network Simulation Cover">
+  <img src="1.png" alt="Network Simulation Cover">
 </div>
 
 ---
