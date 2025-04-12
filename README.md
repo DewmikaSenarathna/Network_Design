@@ -87,7 +87,7 @@ In an era where **digital infrastructure powers education and innovation**, simu
 ---
 
 ## 🔗 **Check Out the Project**
-👉 [Live Repository on GitHub](https://github.com/Don/Simulated_Scalable_Network_Design)
+👉 [Live Repository on GitHub]([https://github.com/Don/Simulated_Scalable_Network_Design](https://github.com/DewmikaSenarathna/Network_Design.git))
 
 📹 **Video Walkthrough**  
 Watch the full demonstration of design logic, implementation, and testing in action.
@@ -101,5 +101,5 @@ I’m always excited to connect with engineers, developers, and tech enthusiasts
 > 🔧 Crafted with care by **Don Dew** 
 
 <div align="center">
-  <img src="6.png" alt="Don Dew Logo" width="150px">
+  <img src="6.png" alt="Don Dew Logo">
 </div>
