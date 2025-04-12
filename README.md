@@ -98,9 +98,8 @@ Watch the full demonstration of design logic, implementation, and testing in act
 💬 Interested in collaborating on network projects, simulations, or educational platforms?  
 I’m always excited to connect with engineers, developers, and tech enthusiasts.
 
-> 🔧 Crafted with care by **Don Dew**  
-> 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/don-dew) or drop a ⭐ if you found this helpful!
+> 🔧 Crafted with care by **Don Dew** 
 
 <div align="center">
-  <img src="https://github.com/Don/Simulated_Scalable_Network_Design/blob/main/logo_dd_don.png" alt="Don Dew Logo" width="150px">
+  <img src="6.png" alt="Don Dew Logo" width="150px">
 </div>
