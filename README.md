@@ -16,7 +16,7 @@ This end-to-end simulation reflects a **large-scale educational institution** co
 ---
 
 <div align="center">
-  <img src="https://github.com/Don/Simulated_Scalable_Network_Design/blob/main/network_topology.png" alt="Network Topology" width="75%" height="auto">
+  <img src="Picture1.png" alt="Network Topology" width="75%" height="auto">
 </div>
 
 ---
