@@ -1,61 +1,80 @@
 🚀 Simulated Scalable Network Infrastructure Design
-🏢 Multi-Branch Educational Institution | 🧠 Cisco Packet Tracer Simulation
-📘 Overview
-This project was developed as part of the EC4060 – Computer and Data Networks module during my 4th semester at the Faculty of Engineering, University of Jaffna. The simulation demonstrates the design of a scalable, segmented, and secure network infrastructure for a fictional institution comprising six branches: five academic departments and one administrative unit.
+🏫 Multi-Branch Educational Institution | 🧠 Cisco Packet Tracer Implementation
+📘 Project Overview
+This simulation project was developed as part of the EC4060 – Computer and Data Networks module during my 4th semester at the Faculty of Engineering, University of Jaffna.
+It focuses on building a scalable, secure, and logically segmented network for a fictional educational institution consisting of five academic departments and one administrative division.
 
 🎯 Objective
-To apply foundational concepts in network architecture, IP subnetting, VLAN configuration, and inter-network routing to build a simulation that ensures:
+To design and simulate a robust enterprise-style network architecture while demonstrating core networking principles:
 
-Efficient communication 📡
+📡 Efficient communication
 
-Logical segmentation 🧩
+🧩 Logical segmentation
 
-Future scalability 📈
+📈 Future scalability
 
-High-level security 🔐
+🔐 High-level security
 
 🌟 Key Features
-✅ Unique Subnet Allocation for each section ensuring optimized performance and data isolation
-✅ Detailed Subnet Calculations including mask, range, and broadcast addresses
-✅ 30% Scalability Consideration in every department for future expansion
-✅ Role-Based Device Segmentation (Staff vs. Students)
-✅ Logical VLAN Implementation for improved traffic management
-✅ Topology Design with routers, switches, and realistic device allocation
-✅ Centralized CCTV Subnet integrated across departments
-✅ Connectivity Validation using ping and traceroute
-✅ Scalability Testing through dynamic device addition
-✅ Comprehensive Documentation: Diagrams, configurations, results, and a simulation video
+✅ Unique Subnet Allocation for each department with isolation and optimization
 
-🧰 Technologies & Tools
+✅ Precise Subnet Calculations: subnet mask, host ranges, broadcast addresses
+
+✅ 30% Scalability Margin included for each department
+
+✅ Device Role Segmentation: Staff vs. Students
+
+✅ VLAN Configuration for secure, segmented traffic flow
+
+✅ Hierarchical Network Topology using routers and switches
+
+✅ Unified CCTV Subnet across all departments
+
+✅ Connectivity Testing via ping and traceroute
+
+✅ Scalability Simulation through real-time device expansion
+
+✅ Full Technical Documentation with diagrams, configs, reports & walkthrough video
+
+🧰 Technologies & Tools Used
 💻 Cisco Packet Tracer
 
-🧮 IP Subnetting
+🧮 IP Subnetting & Calculations
 
 🌐 VLAN Configuration
 
 🔁 Inter-VLAN Routing
 
-🧪 Network Simulation & Testing (Ping, Traceroute)
+🧪 Network Simulation & Validation
 
-📑 Technical Documentation
+📑 Technical Reporting & Documentation
 
-📦 Deliverables in this Repository
+📦 Repository Deliverables
 📊 Subnet Calculation Tables
-🗺️ VLAN Plan and Logical Mapping
-📁 Packet Tracer Simulation File (.pkt)
+
+🗺️ VLAN Mapping Plan
+
+📁 .pkt Simulation File
+
 🧭 Network Topology Diagram
+
 ⚙️ Router & Switch Configuration Scripts
-🔍 Testing & Validation Results
-📈 Scalability Report with Performance Insights
-🎥 Bonus: Simulation Video Walkthrough
+
+🔍 Ping/Traceroute Test Results
+
+📈 Scalability Report
+
+🎥 Simulation Video Walkthrough
 
 💡 Highlights
-This simulation embodies a real-world network design challenge, mirroring modern enterprise requirements including:
+This project reflects real-world networking solutions tailored for institutional needs. It showcases:
 
-Structured network planning
+✔️ Structured planning & modular growth
 
-Logical IP address management
+✔️ Efficient IP address management
 
-Scalable growth without reconfiguration
+✔️ Logical segmentation with VLANs
 
-Cross-department secure communication
+✔️ Secure inter-department communication
+
+✔️ Simulation of a future-proofed infrastructure
