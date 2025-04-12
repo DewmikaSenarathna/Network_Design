@@ -1,11 +1,11 @@
-🚀 Simulated Scalable Network Infrastructure Design
-🏫 Multi-Branch Educational Institution | 🧠 Cisco Packet Tracer Implementation
-📘 Project Overview
-This simulation project was developed as part of the EC4060 – Computer and Data Networks module during my 4th semester at the Faculty of Engineering, University of Jaffna.
-It focuses on building a scalable, secure, and logically segmented network for a fictional educational institution consisting of five academic departments and one administrative division.
+# 🚀 Simulated Scalable Network Infrastructure Design
+### *🏫 Multi-Branch Educational Institution | 🧠 Cisco Packet Tracer Implementation*
+## 📘 Project Overview
+*This simulation project was developed as part of the **EC4060 – Computer and Data Networks** module during my 4th semester at the Faculty of Engineering, University of Jaffna.
+It focuses on building a scalable, secure, and logically segmented network for a fictional educational institution consisting of five academic departments and one administrative division.*
 
-🎯 Objective
-To design and simulate a robust enterprise-style network architecture while demonstrating core networking principles:
+## 🎯 Objective
+*To design and simulate a robust enterprise-style network architecture while demonstrating core networking principles:*
 
 📡 Efficient communication
 
@@ -13,30 +13,30 @@ To design and simulate a robust enterprise-style network architecture while demo
 
 📈 Future scalability
 
-🔐 High-level security
+🔐 High-level security**
 
-🌟 Key Features
-✅ Unique Subnet Allocation for each department with isolation and optimization
+## 🌟 Key Features
+*✅ Unique Subnet Allocation for each department with isolation and optimization*
 
-✅ Precise Subnet Calculations: subnet mask, host ranges, broadcast addresses
+*✅ Precise Subnet Calculations: subnet mask, host ranges, broadcast addresses*
 
-✅ 30% Scalability Margin included for each department
+*✅ 30% Scalability Margin included for each department*
 
-✅ Device Role Segmentation: Staff vs. Students
+*✅ Device Role Segmentation: Staff vs. Students*
 
-✅ VLAN Configuration for secure, segmented traffic flow
+*✅ VLAN Configuration for secure, segmented traffic flow*
 
-✅ Hierarchical Network Topology using routers and switches
+*✅ Hierarchical Network Topology using routers and switches*
 
-✅ Unified CCTV Subnet across all departments
+*✅ Unified CCTV Subnet across all departments*
 
-✅ Connectivity Testing via ping and traceroute
+*✅ Connectivity Testing via ping and traceroute*
 
-✅ Scalability Simulation through real-time device expansion
+*✅ Scalability Simulation through real-time device expansion*
 
-✅ Full Technical Documentation with diagrams, configs, reports & walkthrough video
+*✅ Full Technical Documentation with diagrams, configs, reports & walkthrough video*
 
-🧰 Technologies & Tools Used
+## 🧰 Technologies & Tools Used
 💻 Cisco Packet Tracer
 
 🧮 IP Subnetting & Calculations
@@ -49,7 +49,7 @@ To design and simulate a robust enterprise-style network architecture while demo
 
 📑 Technical Reporting & Documentation
 
-📦 Repository Deliverables
+## 📦 Repository Deliverables
 📊 Subnet Calculation Tables
 
 🗺️ VLAN Mapping Plan
@@ -66,8 +66,8 @@ To design and simulate a robust enterprise-style network architecture while demo
 
 🎥 Simulation Video Walkthrough
 
-💡 Highlights
-This project reflects real-world networking solutions tailored for institutional needs. It showcases:
+## 💡 Highlights
+*This project reflects real-world networking solutions tailored for institutional needs. It showcases:*
 
 ✔️ Structured planning & modular growth
 
