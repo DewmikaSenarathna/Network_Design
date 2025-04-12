@@ -16,7 +16,7 @@ This end-to-end simulation reflects a **large-scale educational institution** co
 ---
 
 <div align="center">
-  <img src="Picture1.png" alt="Network Topology" width="75%" height="auto">
+  <img src="Picture1.png" alt="Network Topology">
 </div>
 
 ---
@@ -101,5 +101,5 @@ I’m always excited to connect with engineers, developers, and tech enthusiasts
 > 🔧 Crafted with care by **Don Dew** 
 
 <div align="center">
-  <img src="6.png" alt="Don Dew Logo">
+  <img src="logo2 New.png" alt="Don Dew Logo">
 </div>
