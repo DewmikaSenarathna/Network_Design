@@ -61,16 +61,6 @@ The goal of this simulation is to represent a **realistic, scalable, and secure 
 
 ---
 
-## 📂 **Repository Content**
-- `Simulated_Scalable_Network.pkt` → Cisco Packet Tracer simulation file  
-- `Subnet_Table.pdf` → Detailed IP addressing plan  
-- `VLAN_Config.txt` → Configuration commands  
-- `Testing_Results.pdf` → Ping/traceroute validation  
-- `Simulation_Walkthrough.mp4` → Project demonstration  
-- `Readme.md` → You’re reading it!
-
----
-
 ## 📈 **Skills Demonstrated**
 As a 2nd-year **Computer Engineering undergraduate**, this project reflects my:
 
