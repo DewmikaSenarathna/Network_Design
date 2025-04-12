@@ -4,6 +4,8 @@
 *This simulation project was developed as part of the **EC4060 – Computer and Data Networks** module during my 4th semester at the Faculty of Engineering, University of Jaffna.
 It focuses on building a scalable, secure, and logically segmented network for a fictional educational institution consisting of five academic departments and one administrative division.*
 
+---
+
 ## 🎯 Objective
 *To design and simulate a robust enterprise-style network architecture while demonstrating core networking principles:*
 
@@ -14,6 +16,8 @@ It focuses on building a scalable, secure, and logically segmented network for a
 📈 Future scalability
 
 🔐 High-level security**
+
+---
 
 ## 🌟 Key Features
 *✅ Unique Subnet Allocation for each department with isolation and optimization*
@@ -36,6 +40,8 @@ It focuses on building a scalable, secure, and logically segmented network for a
 
 *✅ Full Technical Documentation with diagrams, configs, reports & walkthrough video*
 
+---
+ 
 ## 🧰 Technologies & Tools Used
 💻 Cisco Packet Tracer
 
@@ -48,6 +54,8 @@ It focuses on building a scalable, secure, and logically segmented network for a
 🧪 Network Simulation & Validation
 
 📑 Technical Reporting & Documentation
+
+---
 
 ## 📦 Repository Deliverables
 📊 Subnet Calculation Tables
@@ -65,6 +73,8 @@ It focuses on building a scalable, secure, and logically segmented network for a
 📈 Scalability Report
 
 🎥 Simulation Video Walkthrough
+
+---
 
 ## 💡 Highlights
 *This project reflects real-world networking solutions tailored for institutional needs. It showcases:*
